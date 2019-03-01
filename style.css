@@ -3,6 +3,7 @@ body {
 }
 h1 {
   text-align: center;
+  font-style: italic;
   color: white;
   font-family: "Trebuchet MS", sans-serif;
 }
