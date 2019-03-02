@@ -36,21 +36,6 @@ button {
   font-family: "Verdana", Geneva, sans-serif;
 }
 
-#main_block {
-    display: block;
-    width: 100vw;
-    min-height: 100%;
-}
-
-#left_frame {
-    width: 140px;
-}
-#right_frame {
-    width: -moz-calc(100% - 140px); width: -webkit-calc(100% - 140px); width: calc(100% - 140px);
-}
-
-#left_frame,
-#right_frame {
-    float: left;
-    height:100vh;
+.box {
+  display: inline-block;
 }
