@@ -14,7 +14,7 @@ h1 {
 
 iframe {
   margin: 0 auto;
-  padding: 0px;
+  padding-left:
 }
 
 p {
@@ -35,6 +35,10 @@ button {
   font-family: "Verdana", Geneva, sans-serif;
 }
 
-.box {
-  display: inline-block;
+.box{
+    float:left;
+    margin-right:20px;
+}
+.clear{
+    clear:both;
 }
