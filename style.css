@@ -13,7 +13,7 @@ h1 {
 }
 
 iframe {
-  margin: 0 auto;
+  text-align: center;
 }
 
 p {
@@ -32,4 +32,13 @@ p.center {
 button {
   margin: 0 auto;
   font-family: "Verdana", Geneva, sans-serif;
+}
+
+.box iframe{
+    display:inline-block;
+    text-align: center;
+}
+
+.clear{
+    clear:both;
 }
