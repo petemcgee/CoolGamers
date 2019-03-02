@@ -38,4 +38,5 @@ button {
 
 .box {
   display: inline-block;
+  align-items: center;
 }
