@@ -21,6 +21,7 @@ p {
 }
 
 p.center {
+  padding: 15px;
   color: white;
   margin: 0 auto;
   text-align: center;
