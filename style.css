@@ -34,7 +34,7 @@ button {
   font-family: "Verdana", Geneva, sans-serif;
 }
 
-.box iframe{
+.box {
     display:inline-block;
     text-align: center;
 }
