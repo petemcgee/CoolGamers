@@ -12,8 +12,14 @@ h1 {
   font-family: "Trebuchet MS", sans-serif;
 }
 
-iframe {
+iframe.left {
   text-align: center;
+  padding-left: 45px;
+}
+
+iframe.right {
+  text-align: center;
+  padding-right: 45px;
 }
 
 p {
@@ -35,10 +41,5 @@ button {
 }
 
 .box {
-    display:inline-block;
-    text-align: center;
-}
-
-.clear{
-    clear:both;
+  display: inline-block;
 }
