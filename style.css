@@ -18,7 +18,7 @@ div.center {
 
 div.one {
   float: left;
-  margin-left: 20px;
+  margin-left: 45px;
 }
 
 div.two {
@@ -27,7 +27,7 @@ div.two {
 
 div.three {
   float: right;
-  margin-right: 20px;
+  margin-right: 45px;
 }
 
 
@@ -37,7 +37,7 @@ p {
 }
 
 p.center {
-  padding: 15px;
+  padding: 25px;
   color: white;
   margin: 0 auto;
   text-align: center;
