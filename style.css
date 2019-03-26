@@ -1,50 +1,41 @@
 body {
-  background-color: #5752B4;
-  margin: 0;
-  padding: 0;
+	background-color: #5752B4;
+	margin: 0;
+	padding: 0;
 }
-
 h1 {
-  text-align: center;
-  font-style: oblique;
-  text-decoration: underline;
-  color: white;
-  font-family: "Trebuchet MS", sans-serif;
+	text-align: center;
+	font-style: oblique;
+	text-decoration: underline;
+	color: white;
+	font-family: "Trebuchet MS", sans-serif;
 }
-
 div.center {
-  text-align: center;
+	text-align: center;
 }
-
 div.one {
-  float: left;
-  margin-left: 45px;
+	float: left;
+	margin-left: 45px;
 }
-
 div.two {
-  display: inline-block;
+	display: inline-block;
 }
-
 div.three {
-  float: right;
-  margin-right: 45px;
+	float: right;
+	margin-right: 45px;
 }
-
-
 p {
-  color: white;
-  font-family: "Arial", sans-serif;
+	color: white;
+	font-family: "Arial", sans-serif;
 }
-
 p.center {
-  padding: 25px;
-  color: white;
-  margin: 0 auto;
-  text-align: center;
-  font-family: "Arial", Helvetica, sans-serif;
+	padding: 25px;
+	color: white;
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Arial", Helvetica, sans-serif;
 }
-
 button {
-  margin: 0 auto;
-  font-family: "Verdana", Geneva, sans-serif;
+	margin: 0 auto;
+	font-family: "Verdana", Geneva, sans-serif;
 }
