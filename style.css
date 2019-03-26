@@ -21,7 +21,7 @@ div.one {
 }
 
 div.two {
-  display: inline;
+  display: inline-block;
 }
 
 div.three {
