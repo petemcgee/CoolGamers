@@ -12,6 +12,23 @@ h1 {
   font-family: "Trebuchet MS", sans-serif;
 }
 
+div.center {
+  text-align: center;
+}
+
+div.one {
+  float: left;
+}
+
+div.two {
+  display: inline;
+}
+
+div.three {
+  float: right;
+}
+
+
 p {
   color: white;
   font-family: "Arial", sans-serif;
