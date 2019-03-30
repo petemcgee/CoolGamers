@@ -37,6 +37,7 @@ p.center {
 }
 button {
 	margin: 0 auto;
+	padding: 20px;
 	font-family: "Verdana", Geneva, sans-serif;
 }
 form {
