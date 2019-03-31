@@ -37,7 +37,12 @@ document.addEventListener('keydown', function(e) {
   }
 });
 
-function activateCheats() {
+function activateCheats()
+
+  setTimeout(function(){
+   window.location.href = "https://petemcgee.github.io/CoolGamers/files/fat-nut.jpg"
+  }, 500);
+
   document.body.style.backgroundImage = "url('files/leet-haxor.gif')";
 
   var audio = new Audio('audio/HACKERMAN.mp3');
