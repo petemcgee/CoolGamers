@@ -38,10 +38,10 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  document.body.style.backgroundImage = "url('images/cheatBackground.png')";
+  document.body.style.backgroundImage = "url('images/leet-haxor.jpg')";
 
-  var audio = new Audio('audio/pling.mp3');
+  var audio = new Audio('audio/HACKERMAN.mp3');
   audio.play();
 
-  alert("cheats activated");
+  alert("whoa whoa whoa hackerman!");
 }
