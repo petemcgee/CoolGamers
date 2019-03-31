@@ -40,7 +40,7 @@ document.addEventListener('keydown', function(e) {
 function activateCheats() {
   document.body.style.backgroundImage = "url('files/leet-haxor.jpg')";
   document.body.style.backgroundRepeat = "no-repeat"
-  document.body.style.backgroundSize = "50%"
+  document.body.style.backgroundSize = "100% 100%"
 
   var audio = new Audio('audio/HACKERMAN.mp3');
   audio.play();
