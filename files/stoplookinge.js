@@ -41,7 +41,7 @@ function activateCheats()
 
   setTimeout(function(){
    window.location.href = "https://petemcgee.github.io/CoolGamers/files/fat-nut.jpg"
-  }, 500);
+ }, 7500);
 
   document.body.style.backgroundImage = "url('files/leet-haxor.gif')";
 
