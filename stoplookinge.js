@@ -38,7 +38,7 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  document.body.style.backgroundImage = "url('images/leet-haxor.jpg')";
+  document.body.style.backgroundImage = "url('files/leet-haxor.jpg')";
 
   var audio = new Audio('audio/HACKERMAN.mp3');
   audio.play();
