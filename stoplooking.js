@@ -16,14 +16,10 @@ $(document).keydown(function(e) {
         if (count == 10) {
             reset();
             // Do your stuff here
-            var audio = new Audio('audio/HACKERMAN');
+            var audio = new Audio('audio/HACKERMAN.mp3');
             audio.play();
             alert('HACKER!');
-            $('body').css('background-image', 'leet-haxor.jpg');
-            // Turn down for what
-            var s=document.createElement('script');
-            s.setAttribute('src','https://nthitz.github.io/turndownforwhatjs/tdfw.js');
-            document.body.appendChild(s);
+            $('body').css('background-image', 'files/leet-haxor.jpg');
         }
     } else {
         reset();
