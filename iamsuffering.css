@@ -1,0 +1,52 @@
+body {
+  background-image: url(files/whattheabsolutehecc.gif);
+}
+
+h1 {
+  text-align: center;
+  font-style: oblique;
+  text-decoration: underline;
+  color: white;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+div.center {
+  text-align: center;
+}
+
+div.one {
+  float: left;
+  margin-left: 45px;
+}
+
+div.two {
+  display: inline-block;
+}
+
+div.three {
+  float: right;
+  margin-right: 45px;
+}
+
+p {
+  color: white;
+  font-family: "Arial", sans-serif;
+}
+
+p.center {
+  padding: 45px;
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Arial", Helvetica, sans-serif;
+}
+
+button {
+  margin: 0 auto;
+  padding: 20px;
+  font-family: "Verdana", Geneva, sans-serif;
+}
+
+form {
+  display: inline;
+}
