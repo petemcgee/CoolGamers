@@ -8,6 +8,10 @@ var allowedKeys = {
   66: 'b'
 };
 
+const sleep = (milliseconds) => {
+  return new Promise(resolve => setTimeout(resolve, milliseconds))
+}
+
 // the 'official' Konami Code sequence
 var konamiCode = ['up', 'up', 'down', 'down', 'left', 'right', 'left', 'right', 'b', 'a'];
 
